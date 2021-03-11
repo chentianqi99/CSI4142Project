@@ -1,0 +1,27 @@
+surrogate_key,measure_id,Reporting_PHU,Reporting_PHU_id,Status_PHU,start_date,end_date
+0,13,Durham Region Health Department,2230,Protect,2020-11-07,2020-11-15
+1,14,Durham Region Health Department,2230,Restrict,2020-11-16,2020-11-22
+2,15,Durham Region Health Department,2230,Control,2020-11-23,2020-12-25
+3,16,Durham Region Health Department,2230,Stay-at-home,2020-12-26,2021-02-15
+4,17,Durham Region Health Department,2230,Control,2021-02-16,2021-03-14
+5,40,Halton Region Health Department,2236,Protect,2020-11-07,2020-11-15
+6,41,Halton Region Health Department,2236,Control,2020-11-16,2020-12-25
+7,42,Halton Region Health Department,2236,Stay-at-home,2020-12-26,2021-02-15
+8,43,Halton Region Health Department,2236,Control,2021-02-16,2021-03-14
+9,93,Ottawa Public Health,2251,Stay-at-home,2020-12-26,2021-02-15
+10,94,Ottawa Public Health,2251,Restrict,2021-02-16,2021-03-14
+11,95,Ottawa Public Health,2251,Restrict,2020-11-07,2020-12-25
+12,96,Peel Public Health,2253,Control,2020-11-07,2020-11-22
+13,97,Peel Public Health,2253,Stay-at-home,2020-12-26,2021-03-07
+14,98,Peel Public Health,2253,Lockdown,2021-03-08,2021-03-21
+15,99,Peel Public Health,2253,Lockdown,2020-11-23,2020-12-25
+16,147,Toronto Public Health,3895,Other,2020-11-07,2020-11-15
+17,148,Toronto Public Health,3895,Control,2020-11-16,2020-11-22
+18,149,Toronto Public Health,3895,Stay-at-home,2020-12-26,2021-03-07
+19,150,Toronto Public Health,3895,Lockdown,2021-03-08,2021-03-21
+20,151,Toronto Public Health,3895,Lockdown,2020-11-23,2020-12-25
+21,164,York Region Public Health Services,2270,Restrict,2020-11-07,2020-11-15
+22,165,York Region Public Health Services,2270,Control,2020-11-16,2020-12-13
+23,166,York Region Public Health Services,2270,Stay-at-home,2020-12-26,2021-02-21
+24,167,York Region Public Health Services,2270,Control,2021-02-22,2021-03-14
+25,168,York Region Public Health Services,2270,Lockdown,2020-12-14,2020-12-25
